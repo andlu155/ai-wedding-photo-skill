@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 婚纱照风格生成器"
+  short_description: "从九种精选风格中选择并生成适配不同模型的婚纱照提示词"
+  default_prompt: "使用 $ai-wedding-photo 帮我选择婚纱照风格并生成一组照片。"
