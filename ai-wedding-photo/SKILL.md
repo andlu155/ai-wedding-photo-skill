@@ -1,6 +1,6 @@
 ---
 name: ai-wedding-photo
-description: Create personalized AI wedding-photo prompts and, when image-generation tools are available, generate wedding photos from uploaded reference portraits. Use when users ask for AI wedding photos, 婚纱照, 情侣写真, pre-wedding portraits, wedding style selection, model-specific image prompts, or one of the nine curated styles bundled with this skill.
+description: Create personalized AI wedding-photo prompts and, when image-generation tools are available, generate wedding photos from uploaded reference portraits. Use when users ask for AI wedding photos, 婚纱照, 情侣写真, pre-wedding portraits, wedding style selection, model-specific image prompts, or one of the fifteen curated styles bundled with this skill.
 ---
 
 # AI Wedding Photo
@@ -10,7 +10,7 @@ Guide the user from style selection to model-ready prompts and optional image ge
 ## Workflow
 
 1. Check whether the user has already supplied clear portrait references for both people and any pet that must appear.
-2. Present all nine styles from [references/styles.md](references/styles.md). Show `assets/style-previews/style-menu.png` first, then show individual previews when the user wants a closer comparison. Use Markdown image syntax. If the interface cannot display local images, provide the style names and concise descriptions.
+2. Present all fifteen styles from [references/styles.md](references/styles.md). Show the available style menu image first, then show available individual previews when the user wants a closer comparison. Use Markdown image syntax. Until previews are added for styles 10–15, present those six by name and concise description without linking missing assets.
 3. Ask the user to choose one style or request a recommendation. If recommending, ask only for the desired setting, mood, season, and whether pets or a story timeline should appear.
 4. After the style is selected, ask which image model or platform will be used. Offer: OpenAI/ChatGPT Images, Midjourney, Nano Banana, 即梦, 豆包, or another named model.
 5. Read the selected style entry in [references/styles.md](references/styles.md), the directing rules in [references/shot-direction.md](references/shot-direction.md), and the model rules in [references/model-adapters.md](references/model-adapters.md).
@@ -46,7 +46,7 @@ Guide the user from style selection to model-ready prompts and optional image ge
 
 ## Asset Map
 
-Preview paths and style IDs are listed in [references/styles.md](references/styles.md).
+Style IDs are listed in [references/styles.md](references/styles.md); preview paths are included only when the corresponding asset exists.
 
 Use `scripts/make_contact_sheet.py` when a style is supplied as nine separate images and needs a square 3x3 preview:
 

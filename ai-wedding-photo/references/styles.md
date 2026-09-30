@@ -118,3 +118,75 @@ Use the exact IDs below in filenames and internal references. Show all available
 - Wardrobe: airy off-shoulder or layered ivory gown; classic dark suit plus relaxed white-shirt variation
 - Camera language: cinematic close-ups, silhouette wides, dreamy movement, shallow depth of field, natural laughter
 - Avoid: orange skin, crushed shadows, fake HDR, excessive bloom, uniform posing
+
+## 10. Modern Chinese Ceremony
+
+- ID: `modern-chinese-ceremony`
+- Chinese name: 新中式仪式感婚纱照
+- Mood: dignified, intimate, celebratory, contemporary with cultural texture
+- Setting: courtyard, timber-lattice interiors, tea ceremony, restrained red-lacquer doorway, quiet stone hall
+- Palette: vermilion, warm ivory, antique gold, walnut brown
+- Light: soft window light balanced with warm practical lanterns; preserve detail in red fabrics and skin
+- Wardrobe: contemporary silk or qipao-inspired bridal gown; tailored groom look with a mandarin-collar option
+- Camera language: editorial ceremony coverage, layered doorframe compositions, measured symmetry, tactile close-ups of embroidery, rings, and tea service
+- Avoid: overloaded festive props, palace clichés, oversaturated red, costume-like styling, obscured faces, or invented cultural rituals
+
+## 11. City Night Cinematic
+
+- ID: `city-night-cinematic`
+- Chinese name: 都市夜景电影感
+- Mood: intimate, metropolitan, confident, quietly dramatic
+- Setting: rooftop skyline, elegant city street, modern hotel entrance, reflective pavement, architectural nightscape
+- Palette: midnight blue, charcoal, ivory, restrained amber and cool neon accents
+- Light: controlled practical signage and window light with a soft key on faces; retain shadow detail and natural skin tones
+- Wardrobe: sleek satin or structured gown; black or midnight tailored suit, with an optional relaxed evening look
+- Camera language: cinematic wide establishing frames, compressed city-light portraits, reflections, foreground framing, and shallow-focus close-ups
+- Avoid: unreadable signage, excessive neon, underexposed faces, random landmark mashups, rain-soaked clichés, or stiff luxury advertising poses
+
+## 12. Alpine Winter White
+
+- ID: `alpine-winter-white`
+- Chinese name: 雪山冬日纯白
+- Mood: serene, crisp, tender, quietly adventurous
+- Setting: snow-covered alpine meadow, forest edge, mountain lodge, or a safe open snowfield with distant peaks
+- Palette: snow white, ice blue, soft gray, pine green, champagne accents
+- Light: soft overcast snow bounce, pale blue-hour atmosphere, or warm lodge-window contrast; keep facial detail against bright snow
+- Wardrobe: textured long-sleeve gown with a warm wrap or cape; refined wool coat or layered tailored suit
+- Camera language: clean environmental wides, footprints as leading lines, wind-shaped veil movement, intimate warm-versus-cool portraits, and fabric-detail close-ups
+- Avoid: featureless blown-out snow, unsafe frozen-water poses, blizzard effects, stiff cold expressions, or blue color cast on skin
+
+## 13. Desert Sunset Journey
+
+- ID: `desert-sunset-journey`
+- Chinese name: 沙漠日落旅拍
+- Mood: expansive, adventurous, soulful, romantic
+- Setting: sculpted dunes, sandstone canyon, desert plateau, or a quiet oasis edge
+- Palette: sand, terracotta, muted rose, cream, deep dusk blue
+- Light: low-angle sunset side light, warm rim light, and balanced blue-hour transitions; retain highlights in pale fabric
+- Wardrobe: flowing lightweight gown with movement; relaxed earth-toned linen or a clean tailored suit
+- Camera language: monumental landscape wides, dune-ridge silhouettes, wind-led fabric movement, intimate shaded portraits, and fine sand or jewelry details
+- Avoid: midday hard-light squinting, monotonous brown grading, exaggerated dust storms, unsafe heat exposure, or generic road-trip props
+
+## 14. Vineyard Estate Editorial
+
+- ID: `vineyard-estate-editorial`
+- Chinese name: 庄园葡萄园复古
+- Mood: refined, tactile, relaxed, old-world editorial
+- Setting: vineyard rows, stone winery, barrel room, estate terrace, harvest-season paths
+- Palette: olive green, burgundy, warm cream, stone gray, soft amber
+- Light: late-afternoon directional sun through vine leaves, soft shade for portraits, and restrained dusk flash when useful
+- Wardrobe: lace or clean-lined gown with vintage detail; textured dark or earth-toned tailoring
+- Camera language: vineyard rows as leading lines, editorial full-length frames, candid terrace movement, wine-glass and bouquet details, and layered stone-arch compositions
+- Avoid: staged wine-advertisement tropes, visible brand labels, excessive floral styling, oversaturated greens, or overlap with a formal French garden set
+
+## 15. Modern Architecture Museum
+
+- ID: `modern-architecture-editorial`
+- Chinese name: 现代建筑美术馆
+- Mood: sculptural, poised, contemporary, quietly luxurious
+- Setting: modern museum, concrete gallery, glass atrium, monumental stairs, minimal sculpture hall
+- Palette: chalk white, concrete gray, charcoal, muted metallic, one restrained accent color
+- Light: directional skylight, soft gallery fill, and graphic architectural shadow; maintain fabric texture in bright spaces
+- Wardrobe: sculptural minimalist gown with clean lines; sharply tailored black, charcoal, or ivory suit
+- Camera language: strong geometry, deliberate negative space, balanced wide compositions, framed silhouettes, and close details against architectural texture
+- Avoid: cluttered artwork, legible signage, sterile all-white repetition, distorted building lines, or gala-event clichés
